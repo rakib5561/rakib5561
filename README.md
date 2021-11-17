@@ -1,5 +1,3 @@
-
-![I am Web Developer 🖊️ Love to write code 🎤 Like to share my knowledge](https://avatars.githubusercontent.com/u/78214940?v=4)
 ## Hi there 👋, my name is Md. Rakib
 #### I am Web Developer 🖊️ Love to write code 🎤 Like to share my knowledge
 
